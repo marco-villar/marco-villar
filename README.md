@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects with Phyton
-- 📫 How to reach me: marco@marcovillar.adm.br
+- 📫 How to reach me: contato@marcovillar.adm.br
 
 <!---
 marco-villar/marco-villar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
